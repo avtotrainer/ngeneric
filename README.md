@@ -1,0 +1,2 @@
+# ngeneric
+უბრალო Generic პროექტი
